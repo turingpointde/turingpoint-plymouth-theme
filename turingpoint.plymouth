@@ -4,5 +4,5 @@ Description=turingpoint
 ModuleName=script
 
 [script]
-ImageDir=/usr/share/plymouth/themes/turingpoint/animation
+ImageDir=/usr/share/plymouth/themes/turingpoint
 ScriptFile=/usr/share/plymouth/themes/turingpoint/animated-boot.script
